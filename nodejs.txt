@@ -1,0 +1,13 @@
+environment ro run JS outside browser
+
+
+NPM
+1)node package manager
+2)reuse our own code in other projects
+3)use code written by other developers and share our own solution with other developers
+4)npm calls the resuable code a package or modules or dependencies
+
+nodes modules is created when dependencies are installed
+
+package json stores information about our projects
+and it stores dependecies that project is using
