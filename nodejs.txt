@@ -11,3 +11,18 @@ nodes modules is created when dependencies are installed
 
 package json stores information about our projects
 and it stores dependecies that project is using
+
+
+
+GIT HUB
+
+1)git init
+2)git add .
+3)git commit -m "firstmsg"
+4)git remote add origin {link of repo}
+5)git branch -m main // will be switched  to main branch //unecessary 
+6)git checkout -b master
+7)git push -u origin master// push to master
+
+
+
